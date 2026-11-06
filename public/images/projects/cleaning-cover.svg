@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="960" viewBox="0 0 1400 960">
+<rect width="1400" height="960" fill="#e7f0e8"/>
+<circle cx="1120" cy="170" r="260" fill="#8fbea0" opacity=".28"/>
+<circle cx="180" cy="850" r="330" fill="#8fbea0" opacity=".18"/>
+<rect x="210" y="125" width="980" height="710" rx="28" fill="#ffffff" opacity=".8"/>
+<rect x="250" y="165" width="900" height="54" rx="12" fill="#f0f1ed"/>
+<circle cx="282" cy="192" r="7" fill="#c5cbc4"/><circle cx="308" cy="192" r="7" fill="#c5cbc4"/><circle cx="334" cy="192" r="7" fill="#c5cbc4"/>
+<rect x="285" y="280" width="420" height="38" rx="8" fill="#8fbea0" opacity=".85"/>
+<rect x="285" y="342" width="540" height="18" rx="9" fill="#c9cec8"/>
+<rect x="285" y="374" width="450" height="18" rx="9" fill="#dfe3dc"/>
+<rect x="285" y="438" width="185" height="52" rx="26" fill="#202321"/>
+<rect x="780" y="280" width="320" height="390" rx="18" fill="#8fbea0" opacity=".45"/>
+<circle cx="940" cy="455" r="105" fill="#ffffff" opacity=".7"/>
+<path d="M875 455h130M940 390v130" stroke="#202321" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+<text x="285" y="745" font-family="Arial,sans-serif" font-size="30" letter-spacing="8" fill="#68716a">CLEANING · SERVICES</text>
+</svg>
